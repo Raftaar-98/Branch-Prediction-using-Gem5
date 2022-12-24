@@ -1,0 +1,96 @@
+BTB4096_1024LocalBP
+Benchmark: 401.bzip2
+system.cpu.BranchMispredPercent              1.067181                      
+
+BTB4096_1024LocalBP
+Benchmark: 429.mcf
+system.cpu.BranchMispredPercent              7.665610                      
+
+BTB4096_2048LocalBP
+Benchmark: 401.bzip2
+system.cpu.BranchMispredPercent              1.070742                      
+
+BTB4096_2048LocalBP
+Benchmark: 429.mcf
+system.cpu.BranchMispredPercent              5.963920                      
+
+BTB4096_4096LocalBP
+Benchmark: 401.bzip2
+system.cpu.BranchMispredPercent              1.074303                      
+
+BTB4096_4096LocalBP
+Benchmark: 429.mcf
+system.cpu.BranchMispredPercent              3.387758                      
+
+BTB4096_8192LocalBP
+Benchmark: 401.bzip2
+system.cpu.BranchMispredPercent              1.075490                      
+
+BTB4096_8192LocalBP
+Benchmark: 429.mcf
+system.cpu.BranchMispredPercent              2.787065                      
+
+BTB4096_1024TournamentBP
+Benchmark: 401.bzip2
+system.cpu.BranchMispredPercent              1.079843                      
+
+BTB4096_1024TournamentBP
+Benchmark: 429.mcf
+system.cpu.BranchMispredPercent              0.723165                      
+
+BTB4096_2048TournamentBP
+Benchmark: 401.bzip2
+system.cpu.BranchMispredPercent              1.077469                      
+
+BTB4096_2048TournamentBP
+Benchmark: 429.mcf
+system.cpu.BranchMispredPercent              0.737823                      
+
+BTB4096_4096TournamentBP
+Benchmark: 401.bzip2
+system.cpu.BranchMispredPercent              1.079447                      
+
+BTB4096_4096TournamentBP
+Benchmark: 429.mcf
+system.cpu.BranchMispredPercent              0.169147                      
+
+BTB4096_8192TournamentBP
+Benchmark: 401.bzip2
+system.cpu.BranchMispredPercent              1.079447                      
+
+BTB4096_8192TournamentBP
+Benchmark: 429.mcf
+system.cpu.BranchMispredPercent              0.148992                      
+
+BTB4096_1024BiModeBP
+Benchmark: 401.bzip2
+system.cpu.BranchMispredPercent              1.143549                      
+
+BTB4096_1024BiModeBP
+Benchmark: 429.mcf
+system.cpu.BranchMispredPercent              2.288786                      
+
+BTB4096_2048BiModeBP
+Benchmark: 401.bzip2
+system.cpu.BranchMispredPercent              1.154628                      
+
+BTB4096_2048BiModeBP
+Benchmark: 429.mcf
+system.cpu.BranchMispredPercent              1.694168                      
+
+BTB4096_4096BiModeBP
+Benchmark: 401.bzip2
+system.cpu.BranchMispredPercent              1.158190                      
+
+BTB4096_4096BiModeBP
+Benchmark: 429.mcf
+system.cpu.BranchMispredPercent              1.702076                      
+
+BTB4096_8192BiModeBP
+Benchmark: 401.bzip2
+system.cpu.BranchMispredPercent              1.163729                      
+
+BTB4096_8192BiModeBP
+Benchmark: 429.mcf
+system.cpu.BranchMispredPercent              1.704005                      
+
